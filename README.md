@@ -1,2 +1,1 @@
-#!/usr/bin/python3
-Learning Python
+0x0D-SQL_introductioin task
